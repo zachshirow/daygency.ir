@@ -38,8 +38,8 @@ export async function getStaticPaths() {
 ---
 
 <Layout
-  title={`پست هایی که دارای تگ "${tag}" هستند`}
-  description={`در این صفحه لیستی از پست هایی که تگ ${tag} را نمایش داده ایم.`}
+  title={`Blog articles tagged with "${tag}".`}
+  description={`You can see a list of blog articles here at Daygency that have a tag of ${tag}.`}
 >
   <Container class="flex flex-col gap-y-6">
     <Breadcrumbs
@@ -49,7 +49,7 @@ export async function getStaticPaths() {
       ]}
     />
     <div class="flex flex-wrap items-center gap-2">
-      <h1 class="text-3xl font-semibold">پست ها با تگ: </h1>
+      <h1 class="text-3xl font-semibold">Posts tagged with: </h1>
       <span
         class="flex items-center gap-x-1 rounded-full bg-secondary px-4 py-2 text-2xl font-semibold"
       >

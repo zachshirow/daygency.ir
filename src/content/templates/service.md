@@ -1,14 +1,12 @@
 ---
 aliases: 
-- 
 description: ""
 date: {{date}}
-tags: 
-- خدمت
+tags:
+  - service
 image: 
-authors: 
-- zachshirow
-- hemra
-price: 
-direction: RTL
+authors:
+  - zachshirow
+  - hemra
+price: 0
 ---

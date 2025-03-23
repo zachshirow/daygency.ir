@@ -40,19 +40,19 @@ const sortedPosts = page.data;
 
 ---
 
-<Layout title="وبلاگ" description="آخرین نوشته هایمان در وبلاگ را بخوانید.">
+<Layout title="Blog" description="Read the latest articles of Daygency at our Blog.">
   <Container class="flex grow flex-col gap-y-6">
     <Breadcrumbs
       items={[
-        { label: 'وبلاگ', href: '/blog', icon: 'lucide:archive' },
-        { label: `صفحه ${page.currentPage}`, icon: 'lucide:folder-open' },
+        { label: 'Blog', href: '/blog', icon: 'lucide:archive' },
+        { label: `Page ${page.currentPage}`, icon: 'lucide:folder-open' },
       ]}
     />
 
     <div class="flex min-h-[calc(100vh-18rem)] flex-col gap-y-8 ">
 
       <section class="flex flex-col gap-y-4 prose max-w-full dark:prose-invert">
-      <h1>وبلاگ</h1>
+      <h1>Blog</h1>
       <ul class="not-prose flex flex-col gap-4">
         {
           sortedPosts.map(post => {

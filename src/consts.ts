@@ -31,18 +31,18 @@ export type REVIEW = {
 
 
 export const LOCALE: Locale = {
-  lang: "fa", // html lang code. Set this empty and default will be "en"
-  langTag: ["fa-IR"], // BCP 47 Language Tags. Set this empty [] to use the environment default
+  lang: "en", // html lang code. Set this empty and default will be "en"
+  langTag: ["en-US"], // BCP 47 Language Tags. Set this empty [] to use the environment default
 }
 
 export const SITE: Site = {
-  TITLE: 'کافی نت دی',
+  TITLE: 'Day Agency',
   DESCRIPTION:
-    'کافی نتی روستایی با دسترسی جهانی.',
-  EMAIL: 'daynetcafe24@gmail.com',
+    'The freelance agency you can rely on everyday.',
+  EMAIL: 'daygency24@gmail.com',
   NUM_POSTS_ON_HOMEPAGE: 5,
   POSTS_PER_PAGE: 5,
-  SITEURL: 'https://daynetcafe.ir',
+  SITEURL: 'https://daygency.ir',
   SERVICES: 12, 
   CUSTOMERS: 181, 
   PROJECTS: 263, 
@@ -50,23 +50,23 @@ export const SITE: Site = {
 }
 
 export const NAV_LINKS: Link[] = [
-  { href: '/blog', label: 'وبلاگ' },
-  { href: '/services', label: 'خدمات' },
-  { href: '/shop', label: 'فروشگاه' },
+  { href: '/blog', label: 'Blog' },
+  { href: '/services', label: 'Services' },
+  { href: '/shop', label: 'Shop' },
 ]
 
 export const FOOTER_LINKS: Link[] = [
-  {href: "/about", label: "درباره ما"},
-  {href: "/blog", label: "وبلاگ"},
-  {href: "/services", label: "خدمات"},
-  {href: "/shop", label: "فروشگاه"},
-  {href: "/tags", label: "تگ ها"},
+  {href: "/about", label: "About"},
+  {href: "/blog", label: "Blog"},
+  {href: "/services", label: "Services"},
+  {href: "/shop", label: "Shop"},
+  {href: "/tags", label: "Tags"},
 ]
 
 
 export const SOCIAL_LINKS: Link[] = [
-  { href: 'https://github.com/zachshirow/daynetcafe.ir', label: 'GitHub' },
-  { href: 'https://instagram.com/daynetcafe', label: 'Instagram' },
-  { href: 'daynetcafe24@gmail.com', label: 'Email' },
+  { href: 'https://github.com/zachshirow/daygency.ir', label: 'GitHub' },
+  { href: 'https://instagram.com/daygency', label: 'Instagram' },
+  { href: 'daygency24@gmail.com', label: 'Email' },
   { href: '/rss.xml', label: 'RSS' },
 ]

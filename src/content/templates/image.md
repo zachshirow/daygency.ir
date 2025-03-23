@@ -1,1 +1,0 @@
-https://files.daynetcafe.ir/media/public/

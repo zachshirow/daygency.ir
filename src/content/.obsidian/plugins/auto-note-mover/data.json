@@ -5,12 +5,12 @@
   "folder_tag_pattern": [
     {
       "folder": "blog",
-      "tag": "#وبلاگ",
+      "tag": "#blog",
       "pattern": ""
     },
     {
       "folder": "services",
-      "tag": "#خدمت",
+      "tag": "#service",
       "pattern": ""
     }
   ],

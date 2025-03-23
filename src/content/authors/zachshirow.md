@@ -1,12 +1,12 @@
 ---
-name: زکریا شیرمحمدلی
+name: Zachary
 pronouns: he/him
 avatar: /static/zachshirow.jpg
-bio: معلم زبان انگلیسی، برنامه نویس فول استک، حسابدار و مدیر کافی نت دی
+bio: English Language Teacher, Translator, Fullstack Web Developer, and Designer
 website: https://zachshirow.ir
 twitter: https://twitter.com/zachshirow
 github: https://github.com/zachshirow
 mail: zachshirow@gmail.com
 aliases:
-  - زکریا شیرمحمدلی
+  - Zachary Shirmohammadli
 ---

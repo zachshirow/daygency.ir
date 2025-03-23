@@ -34,10 +34,10 @@ const MobileMenu = () => {
           variant="outline"
           size="icon"
           className="md:hidden"
-          title="باز و بسته کردن منو"
+          title="Menu Toggle"
         >
           <Menu className="h-5 w-5" />
-          <span className="sr-only">باز و بسته کردن منو</span>
+          <span className="sr-only">Menu Toggle</span>
         </Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent align="end" className="bg-background">

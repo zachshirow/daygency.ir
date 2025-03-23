@@ -1,5 +1,5 @@
 {
-    "app": "day-static",
+    "app": "daygency",
     "port": 1234,
     "platform": "static",
     "path": "./dist"

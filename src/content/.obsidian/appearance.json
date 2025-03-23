@@ -1,6 +1,6 @@
 {
-  "interfaceFontFamily": "IBM Plex Sans Arabic",
-  "textFontFamily": "IBM Plex Sans Arabic",
-  "monospaceFontFamily": "IBM Plex Sans Arabic",
+  "interfaceFontFamily": "geist",
+  "textFontFamily": "geist",
+  "monospaceFontFamily": "geist mono",
   "theme": "obsidian"
 }

@@ -1,1 +1,0 @@
-<USDRateCalc amount={0} />

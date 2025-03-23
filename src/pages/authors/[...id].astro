@@ -30,13 +30,13 @@ const authorPosts = allPosts
 ---
 
 <Layout
-  title={`${author.data.name} (نویسنده)`}
-  description={author.data.bio || `پروفایل ${author.data.name} که یکی از نویسندگان وبسایت است.`}
+  title={`${author.data.name} (Author)`}
+  description={author.data.bio || `Profile of ${author.data.name} who is one of the writers on our website.`}
 >
   <Container class="flex flex-col gap-y-6">
     <Breadcrumbs
       items={[
-        { href: '/authors', label: 'نویسنده ها', icon: 'lucide:users' },
+        { href: '/authors', label: 'Authors', icon: 'lucide:users' },
         { label: author.data.name, icon: 'lucide:user' },
       ]}
     />
@@ -45,7 +45,7 @@ const authorPosts = allPosts
       <AuthorCard author={author} linkDisabled />
     </section>
     <section class="flex flex-col gap-y-4">
-      <h2 class="text-2xl font-semibold">پست های {author.data.name}</h2>
+      <h2 class="text-2xl font-semibold">{author.data.name}'s Posts</h2>
       {
         authorPosts.length > 0 ? (
           <ul class="not-prose flex flex-col gap-4">

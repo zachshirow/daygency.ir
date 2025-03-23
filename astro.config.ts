@@ -28,19 +28,19 @@ import pagefind from "astro-pagefind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://daynetcafe.ir',
+  site: 'https://daygency.ir',
   vite: {
     server: {
-      allowedHosts: ['daynetcafeir.liara.run', 'daynetcafe.ir', 'localhost'],
+      allowedHosts: ['daygency.liara.run', 'daygency.ir', 'localhost'],
     },
     preview: {
-      allowedHosts: ['daynetcafeir.liara.run', 'daynetcafe.ir', 'localhost'],
+      allowedHosts: ['daygency.liara.run', 'daygency.ir', 'localhost'],
     },
   },
   image: {
     // Example: Allow remote image optimization from a single domain
     // service: passthroughImageService(), 
-    domains: ['daynetcafeir.liara.run', 'daynetcafe.ir', 'gravatar.com', 'files.daynetcafe.ir'],
+    domains: ['daygency.liara.run', 'daygency.ir', 'gravatar.com', 'files.daynetcafe.ir'],
   },
   // output: "static",
   // adapter: nodejs({
