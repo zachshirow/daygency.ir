@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Number of research papers required to become a Professor
   - How many papers to become a Professor
+  - Number of research papers required to become a Professor
 description: How Many Research Papers do You Need to Publish to get Employed as a University Professor? 3 to 30 based on the academic rank.
 date: 2025-03-23
 tags:

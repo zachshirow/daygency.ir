@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Challenges and Best Practices of Translating Academic Journals between English & Farsi
+  - Challenges & Best Practices Translating En/Fa
 description: Translating academic journals from Farsi to English (and vice versa) is a complex and nuanced process.
 date: 2025-03-23
 tags:

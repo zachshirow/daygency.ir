@@ -15,7 +15,7 @@
               "state": {
                 "file": "blog/freelance-agency-vs-fulltime-employee.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "freelance-agency-vs-fulltime-employee"
@@ -170,10 +170,12 @@
   },
   "active": "2eaade8ce5e8d13b",
   "lastOpenFiles": [
+    "blog/professor-research-paper-required.md",
+    "blog/challenges-best-practices-translating-en-fa-academic-journals.md",
+    "blog/research-paper-writing-process.md",
+    "blog/freelance-agency-vs-fulltime-employee.md",
     "blog/english-farsi-translation-mistakes-avoid.md",
     "blog/cultural-understanding-new-markets.md",
-    "blog/freelance-agency-vs-fulltime-employee.md",
-    "blog/challenges-best-practices-translating-en-fa-academic-journals.md",
     "media/challenges-best-practices-translating-en-fa-academic-journals.jpg",
     "services/english-farsi-translation.md",
     "media/freelance-agency-vs-fulltime-employee.jpg",
@@ -181,8 +183,6 @@
     "blog/research-paper-thesis-dissertation-difference.md",
     "media/english-farsi-translation-mistakes-avoid.jpg",
     "services/research-paper-writing-services.md",
-    "blog/research-paper-writing-process.md",
-    "blog/professor-research-paper-required.md",
     "media/research-paper-thesis-dissertation-difference.jpg",
     "services/social-media-management-services.md",
     "services/static-website-development-astrojs.md",
