@@ -1,11 +1,13 @@
 ---
 aliases:
-  - Freelance Agency Benefits 
+  - Freelance Agency Benefits
   - Benefits of Working with a Freelance Agency vs a Fulltime Employee
 description: In this article, we’ll explore the key benefits of working with a freelance agency and why it's the better option than having fulltime employees.
 date: 2025-03-23
 tags:
   - blog
+  - freelancing
+  - agency
 image: ../media/freelance-agency-vs-fulltime-employee.jpg
 authors:
   - zachshirow

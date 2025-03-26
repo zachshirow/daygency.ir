@@ -6,6 +6,9 @@ description: How Many Research Papers do You Need to Publish to get Employed as 
 date: 2025-03-23
 tags:
   - blog
+  - translation
+  - writing
+  - research
 image: ../media/professor-research-paper-required.jpg
 authors:
   - zachshirow

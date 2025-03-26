@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a70bb2bc3ff5bf1b",
+        "id": "063a3c958a8b977f",
         "type": "tabs",
         "children": [
           {
-            "id": "2eaade8ce5e8d13b",
+            "id": "ba4ef2276e8bbb3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/freelance-agency-vs-fulltime-employee.md",
+                "file": "blog/confidentiality-translations-transcriptions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "confidentiality-translations-transcriptions"
+            }
+          },
+          {
+            "id": "96f5a52272cac91e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blog/essential-business-farsi-phrases.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "freelance-agency-vs-fulltime-employee"
+              "title": "essential-business-farsi-phrases"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/freelance-agency-vs-fulltime-employee.md",
+                "file": "blog/essential-business-farsi-phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for freelance-agency-vs-fulltime-employee"
+              "title": "Backlinks for essential-business-farsi-phrases"
             }
           },
           {
@@ -140,17 +155,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/freelance-agency-vs-fulltime-employee.md",
+                "file": "blog/essential-business-farsi-phrases.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of freelance-agency-vs-fulltime-employee"
+              "title": "Outline of essential-business-farsi-phrases"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,52 +182,53 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2eaade8ce5e8d13b",
+  "active": "96f5a52272cac91e",
   "lastOpenFiles": [
+    "media/essential-business-farsi-phrases 1.jpg",
+    "media/Recording 20250326150621.m4a",
+    "media/Recording 20250326150613.m4a",
+    "media/Recording 20250326150557.m4a",
+    "media/Recording 20250326150543.m4a",
+    "media/Recording 20250326150532.m4a",
+    "media/Recording 20250326150514.m4a",
+    "media/Recording 20250326150455.m4a",
+    "media/Recording 20250326150445.m4a",
+    "media/Recording 20250326150244.m4a",
+    "media/Recording 20250326150233.m4a",
+    "media/essential-business-farsi-phrases.jpg",
+    "blog/confidentiality-translations-transcriptions.md",
+    "blog/essential-business-farsi-phrases.md",
+    "services/english-farsi-interpretation.md",
+    "blog/en-fa-interpretation-support-reserach-iran.md",
+    "media/en-fa-interpretation-support-reserach-iran.jpg",
+    "blog/fa-en-translations-universities-worldwide-research-iran.md",
+    "media/fa-en-translations-universities-worldwide-research-iran.jpg",
     "blog/professor-research-paper-required.md",
-    "blog/challenges-best-practices-translating-en-fa-academic-journals.md",
+    "blog/research-paper-thesis-dissertation-difference.md",
     "blog/research-paper-writing-process.md",
+    "blog/challenges-best-practices-translating-en-fa-academic-journals.md",
     "blog/freelance-agency-vs-fulltime-employee.md",
     "blog/english-farsi-translation-mistakes-avoid.md",
     "blog/cultural-understanding-new-markets.md",
-    "media/challenges-best-practices-translating-en-fa-academic-journals.jpg",
+    "services/sop-writing-services.md",
     "services/english-farsi-translation.md",
+    "media/confidentiality-translations-transcriptions.jpg",
+    "media/sop-writing-services.jpg",
+    "media/challenges-best-practices-translating-en-fa-academic-journals.jpg",
     "media/freelance-agency-vs-fulltime-employee.jpg",
     "media/cultural-understanding-new-markets.jpg",
-    "blog/research-paper-thesis-dissertation-difference.md",
     "media/english-farsi-translation-mistakes-avoid.jpg",
     "services/research-paper-writing-services.md",
     "media/research-paper-thesis-dissertation-difference.jpg",
     "services/social-media-management-services.md",
     "services/static-website-development-astrojs.md",
-    "media/professor-research-paper-required.jpg",
-    "media/research-paper-writing-services.jpg",
-    "media/research-paper-writing-process.jpg",
-    "media/static-website-development-astrojs.jpg",
-    "media/social-media-management-services.jpg",
     "services/academic-research-support-translation.md",
     "services/iranian-market-research-outreach.md",
     "services/local-guide-services-iran.md",
     "services/farsi-tutoring-services.md",
-    "services/english-farsi-interpretation.md",
     "blog/changelog.md",
     "templates/snippet.md",
     "templates/astro column.md",
-    "templates/USDRateCalc.md",
-    "templates/AstroCard.md",
-    "templates/BlogCardLink.md",
-    "templates/map class.md",
-    "templates/image.md",
-    "templates/post.md",
-    "blog/iran-khodro-fajr-1403.mdx",
-    "blog/bahmanmotor-haval-bahman18.mdx",
-    "blog/turkiye-universities.mdx",
-    "services/yos-signup.mdx",
-    "blog/golestan-haj-karavans.mdx",
-    "blog/umra-latest-news.mdx",
-    "blog/file-over-app.mdx",
-    "snippets",
-    "blog/obsidian-about.mdx",
-    "blog/obsidian-sharpen.mdx"
+    "templates/USDRateCalc.md"
   ]
 }

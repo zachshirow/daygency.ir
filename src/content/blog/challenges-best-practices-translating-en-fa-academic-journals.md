@@ -5,6 +5,7 @@ description: Translating academic journals from Farsi to English (and vice versa
 date: 2025-03-23
 tags:
   - blog
+  - translation
 image: ../media/challenges-best-practices-translating-en-fa-academic-journals.jpg
 authors:
   - zachshirow

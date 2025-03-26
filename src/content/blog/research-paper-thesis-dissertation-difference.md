@@ -5,6 +5,9 @@ description: In this post, we will dive deeper into finding out the key differen
 date: 2025-03-23
 tags:
   - blog
+  - translation
+  - research
+  - writing
 image: ../media/research-paper-thesis-dissertation-difference.jpg
 authors:
   - zachshirow

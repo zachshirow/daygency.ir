@@ -5,6 +5,7 @@ description: Here are the most Common Mistakes in Farsi-English Translation and 
 date: 2025-03-23
 tags:
   - blog
+  - translation
 image: ../media/english-farsi-translation-mistakes-avoid.jpg
 authors:
   - zachshirow

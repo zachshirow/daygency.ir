@@ -5,6 +5,9 @@ description: Writing a research paper involves multiple stages, from selecting a
 date: 2025-03-23
 tags:
   - blog
+  - translation
+  - research
+  - writing
 image: ../media/research-paper-writing-process.jpg
 authors:
   - zachshirow

@@ -5,6 +5,8 @@ description: Here we will go through the Importance of Cultural Understanding Wh
 date: 2025-03-23
 tags:
   - blog
+  - translation
+  - research
 image: ../media/cultural-understanding-new-markets.jpg
 authors:
   - zachshirow
