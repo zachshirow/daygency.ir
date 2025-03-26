@@ -5,6 +5,10 @@ description: In this article we will discuss how foreign universities can use Fa
 date: 2025-03-26
 tags:
   - blog
+  - research
+  - translation
+  - farsi
+  - english
 image: ../media/fa-en-translations-universities-worldwide-research-iran.jpg
 authors:
   - zachshirow

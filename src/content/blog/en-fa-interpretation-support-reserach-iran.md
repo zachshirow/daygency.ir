@@ -5,6 +5,9 @@ description: Let's learn how interpretation services support academic interviews
 date: 2025-03-26
 tags:
   - blog
+  - translation
+  - research
+  - interpretation
 image: ../media/en-fa-interpretation-support-reserach-iran.jpg
 authors:
   - zachshirow

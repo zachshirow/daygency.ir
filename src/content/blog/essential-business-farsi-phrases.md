@@ -5,7 +5,11 @@ description: Here are some of the most essential farsi phrases for business meet
 date: 2025-03-28
 tags:
   - blog
-image: "../media/essential-business-farsi-phrases.jpg"
+  - translation
+  - teaching
+  - farsi
+  - english
+image: ../media/essential-business-farsi-phrases.jpg
 authors:
   - zachshirow
   - hemra

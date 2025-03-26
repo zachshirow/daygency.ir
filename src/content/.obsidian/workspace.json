@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "063a3c958a8b977f",
+        "id": "d50561b645fb1bba",
         "type": "tabs",
         "children": [
           {
-            "id": "ba4ef2276e8bbb3f",
+            "id": "686dc3d30df15c60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/confidentiality-translations-transcriptions.md",
+                "file": "blog/top-10-iranian-universities-cooperation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "confidentiality-translations-transcriptions"
-            }
-          },
-          {
-            "id": "96f5a52272cac91e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blog/essential-business-farsi-phrases.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "essential-business-farsi-phrases"
+              "title": "top-10-iranian-universities-cooperation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/essential-business-farsi-phrases.md",
+                "file": "blog/top-10-iranian-universities-cooperation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for essential-business-farsi-phrases"
+              "title": "Backlinks for top-10-iranian-universities-cooperation"
             }
           },
           {
@@ -155,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/essential-business-farsi-phrases.md",
+                "file": "blog/top-10-iranian-universities-cooperation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of essential-business-farsi-phrases"
+              "title": "Outline of top-10-iranian-universities-cooperation"
             }
           }
         ]
@@ -182,8 +167,32 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "96f5a52272cac91e",
+  "active": "686dc3d30df15c60",
   "lastOpenFiles": [
+    "blog/research-paper-writing-process.md",
+    "blog/research-paper-thesis-dissertation-difference.md",
+    "blog/professor-research-paper-required.md",
+    "blog/localization-vs-translation.md",
+    "blog/how-sop-writing.md",
+    "blog/freelance-agency-vs-fulltime-employee.md",
+    "blog/fa-en-translations-universities-worldwide-research-iran.md",
+    "blog/essential-business-farsi-phrases.md",
+    "blog/english-farsi-translation-mistakes-avoid.md",
+    "blog/en-fa-interpretation-support-reserach-iran.md",
+    "blog/cultural-understanding-new-markets.md",
+    "blog/confidentiality-translations-transcriptions.md",
+    "blog/challenges-best-practices-translating-en-fa-academic-journals.md",
+    "blog/changelog.md",
+    "blog/10-points-freelance-agency.md",
+    "blog/5tips-obsidian-project-management.md",
+    "media/5tips-obsidian-project-management.jpg",
+    "services/sop-writing-services.md",
+    "blog/top-10-iranian-universities-cooperation.md",
+    "media/10-points-freelance-agency.jpg",
+    "media/top-10-iranian-universities-cooperation.jpg",
+    "media/how-sop-writing.jpg",
+    "media/localization-vs-translation.jpg",
+    "services/english-farsi-translation.md",
     "media/essential-business-farsi-phrases 1.jpg",
     "media/Recording 20250326150621.m4a",
     "media/Recording 20250326150613.m4a",
@@ -196,39 +205,15 @@
     "media/Recording 20250326150244.m4a",
     "media/Recording 20250326150233.m4a",
     "media/essential-business-farsi-phrases.jpg",
-    "blog/confidentiality-translations-transcriptions.md",
-    "blog/essential-business-farsi-phrases.md",
     "services/english-farsi-interpretation.md",
-    "blog/en-fa-interpretation-support-reserach-iran.md",
     "media/en-fa-interpretation-support-reserach-iran.jpg",
-    "blog/fa-en-translations-universities-worldwide-research-iran.md",
     "media/fa-en-translations-universities-worldwide-research-iran.jpg",
-    "blog/professor-research-paper-required.md",
-    "blog/research-paper-thesis-dissertation-difference.md",
-    "blog/research-paper-writing-process.md",
-    "blog/challenges-best-practices-translating-en-fa-academic-journals.md",
-    "blog/freelance-agency-vs-fulltime-employee.md",
-    "blog/english-farsi-translation-mistakes-avoid.md",
-    "blog/cultural-understanding-new-markets.md",
-    "services/sop-writing-services.md",
-    "services/english-farsi-translation.md",
     "media/confidentiality-translations-transcriptions.jpg",
-    "media/sop-writing-services.jpg",
-    "media/challenges-best-practices-translating-en-fa-academic-journals.jpg",
-    "media/freelance-agency-vs-fulltime-employee.jpg",
-    "media/cultural-understanding-new-markets.jpg",
-    "media/english-farsi-translation-mistakes-avoid.jpg",
     "services/research-paper-writing-services.md",
-    "media/research-paper-thesis-dissertation-difference.jpg",
     "services/social-media-management-services.md",
     "services/static-website-development-astrojs.md",
     "services/academic-research-support-translation.md",
     "services/iranian-market-research-outreach.md",
-    "services/local-guide-services-iran.md",
-    "services/farsi-tutoring-services.md",
-    "blog/changelog.md",
-    "templates/snippet.md",
-    "templates/astro column.md",
-    "templates/USDRateCalc.md"
+    "services/local-guide-services-iran.md"
   ]
 }
